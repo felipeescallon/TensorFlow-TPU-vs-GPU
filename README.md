@@ -4,7 +4,7 @@ Two jupyter notebooks with the same info running on **Google Collab**, one with 
 See details at: https://www.meetup.com/es-ES/Tensorflow-Colombia/events/276563234/
 
 
-*Credit: 
+*Credit:* 
 
-TensorFlow Colombia community which I belong to*
+**TensorFlow Colombia**, a community which I belong to.
 https://www.meetup.com/es-ES/Tensorflow-Colombia/?_locale=es-ES
