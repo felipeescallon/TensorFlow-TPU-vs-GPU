@@ -7,4 +7,5 @@ See details at: https://www.meetup.com/es-ES/Tensorflow-Colombia/events/27656323
 *Credit:* 
 
 **TensorFlow Colombia**, a community which I belong to.
-https://www.meetup.com/es-ES/Tensorflow-Colombia/?_locale=es-ES
+
+Visit us: https://www.meetup.com/es-ES/Tensorflow-Colombia/?_locale=es-ES
